@@ -4,7 +4,7 @@ create a `Hotel` class with the following attributes:
 1. rooms (array)
 2. roomsCapacity (number)
 3. roomsBooked (number)
-4. customer (array)
+4. customers (array)
 5. cash (number)
 
 add the following methods to the Hotel class:
@@ -24,6 +24,6 @@ create a `Room` class with the following attributes:
 create a `Customer` class with the following attributes:
 1. id (number)
 2. name (string)
-3. payment method (string)
+3. paymentMethod (string)
 4. gender (string)
 5. roomsBooked (array)
